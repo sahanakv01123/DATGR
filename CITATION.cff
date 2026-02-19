@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Drift-Aware Temporal Graph Rewiring (DATGR) for Adaptive Semantic Modeling in Biomedical Text"
+message: "If you use this software, please cite the associated IEEE CAI 2026 paper."
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/sahanakv01123/DATGR"
+
+authors:
+  - family-names: "Vijayakumar"
+    given-names: "Bharathwaj"
+  - family-names: "Varadaraju"
+    given-names: "Sahana"
+
+preferred-citation:
+  type: conference-paper
+  title: "Drift-Aware Temporal Graph Rewiring (DATGR) for Adaptive Semantic Modeling in Biomedical Text"
+  authors:
+    - family-names: "Vijayakumar"
+      given-names: "Bharathwaj"
+    - family-names: "Varadaraju"
+      given-names: "Sahana"
+  year: 2026
+  conference: "IEEE Conference on Artificial Intelligence (IEEE CAI 2026)"

@@ -1,10 +1,10 @@
-# DATGR — Drift-Aware Temporal Graph Rewiring
+# Drift-Aware Temporal Graph Rewiring (DATGR) for Adaptive Semantic Modeling in Biomedical Text
 
 This repository contains the official implementation of **DATGR**, a drift-aware framework for modeling temporal semantic evolution in biomedical text through lightweight graph rewiring.
 
 The implementation reproduces the experimental results reported in:
 
-> DATGR: Drift-Aware Temporal Graph Rewiring for Biomedical Semantic Evolution  
+> Drift-Aware Temporal Graph Rewiring (DATGR) for Adaptive Semantic Modeling in Biomedical Text  
 > Accepted at IEEE CAI 2026
 
 ---
@@ -20,7 +20,7 @@ DATGR introduces an edge-centric temporal adaptation mechanism that:
 
 ---
 
-## Quick Start (Google Colab — Recommended)
+## Quick Start (Google Colab - Recommended)
 
 Run the experiments directly in Google Colab:
 
