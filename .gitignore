@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Virtual environments (if ever used locally)
+.venv/
+venv/
+env/
+
+# Temporary output files (not paper figures)
+outputs/
